@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>React Challenge</title>
+  <title>React Calculator Challenge</title>
 
   <link rel="stylesheet" href="https://unpkg.com/sanitize.css@11.0.0/sanitize.css">
   <link rel="stylesheet" href="css/style.processed.css">
@@ -26,54 +26,7 @@
   <p>ES6+ Javascript knowledge is matter of evaluation</p>
   <p>Look and feel of the solution is a plus</p>
   <!-- END Challeng Description -->
-  
-  <!-- REMOVE ME -->
-  <h2>Example below</h2>
-  <div class="wrapper">
-    <div>
-      <button>Add row</button>
-    </div>
-    <ul>
-      <li>
-        <select>
-          <option selected>+</option>
-          <option>-</option>
-        </select>
-        <input type="text" value="100"/>
-        <button>Delete</button>
-        <button>Disable</button>
-      </li>
-      <li>
-        <select>
-          <option selected>+</option>
-          <option>-</option>
-        </select>
-        <input type="text" value="30"/>
-        <button>Delete</button>
-        <button>Disable</button>
-      </li>
-      <li>
-        <select>
-          <option>+</option>
-          <option selected>-</option>
-        </select>
-        <input type="text" value="7"/>
-        <button>Delete</button>
-        <button>Disable</button>
-      </li>
-    </ul>
-    <div>
-      Result: 123
-    </div>
-  </div>
-  <!-- END REMOVE ME -->
-  
-  <!-- React App Container -->
-  <div id="app"></div>
-  
-  <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
-  <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
-  <script src="js/app.processed.js"></script>
+
 
 </body>
 
