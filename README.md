@@ -3,8 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>React Calculator Challenge</title>
-
   <link rel="stylesheet" href="https://unpkg.com/sanitize.css@11.0.0/sanitize.css">
   <link rel="stylesheet" href="css/style.processed.css">
 </head>
