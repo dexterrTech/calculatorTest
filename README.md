@@ -25,6 +25,8 @@
   <p>Look and feel of the solution is a plus</p>
   <!-- END Challeng Description -->
 
+</br>
+  <h3>Once done, take working video of the app & zip your code to send it back to the email</h3>
 
 </body>
 
